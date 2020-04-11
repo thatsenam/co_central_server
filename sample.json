@@ -1,0 +1,34 @@
+{
+    "from": "android",
+    "patient_id": "USSDFKJIWEFK",
+    "data": {
+        "o2": {
+            "given": 22,
+            "sensed": 8
+        },
+        "vt": {
+            "given": 23,
+            "sensed": 8
+        },
+        "ti": {
+            "given": 24,
+            "sensed": 8
+        },
+        "rr": {
+            "given": 2,
+            "sensed": 8
+        },
+        "fr": {
+            "given": 2,
+            "sensed": 8
+        },
+        "peep": {
+            "given": 29,
+            "sensed": 8
+        },
+        "paw": {
+            "given": 21,
+            "sensed": 8
+        }
+    }
+}
